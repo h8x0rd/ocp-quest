@@ -8,7 +8,7 @@ patches:
 images:
   - name: lifecycle-quest
     newName: image-registry.openshift-image-registry.svc:5000/gitops-demo-dev/lifecycle-quest
-    newTag: bootstrap
+    newTag: a5ad4bc-20260518162434
 commonLabels:
   app.kubernetes.io/instance: lifecycle-quest-prod
   app.kubernetes.io/environment: prod
