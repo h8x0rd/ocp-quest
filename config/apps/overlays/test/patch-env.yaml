@@ -12,6 +12,6 @@ spec:
             - name: APP_ENV
               value: test
             - name: APP_VERSION
-              value: bootstrap
+              value: a5ad4bc-20260518162434
             - name: MESSAGE
               value: "Test stage: same image, more confidence!"
